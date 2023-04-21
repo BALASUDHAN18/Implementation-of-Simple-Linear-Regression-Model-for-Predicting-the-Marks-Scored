@@ -9,9 +9,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.import the required libraries and read the dataframe. 
+
 2.Assign hours to X and scores to Y.
+
 3.Implement training set and test set of the dataframe.
+
 4.Plot the required graph both for test data and training data. 
+
 5.Find the values of MSE , MAE and RMSE.
 ## Program:
 ```
@@ -77,7 +81,25 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![](Exp2_1.png)
+
+![](Exp2_2.png)
+
+![](Exp2_3.png)
+
+![](Exp2_4.png)
+
+![](Exp2_5.png)
+
+![](Exp2_6.png)
+
+![](Exp2_7.png)
+
+![](Exp2_8.png)
+
+![](Exp2_9.png)
+
+![](Exp2_10.png)
 
 
 ## Result:
